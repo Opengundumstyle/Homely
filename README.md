@@ -1,6 +1,6 @@
 # Homely
 
-##techstack:
+## techstack:
 - ruby on rails 7
 - ruby 3
 - PostgreSQL
